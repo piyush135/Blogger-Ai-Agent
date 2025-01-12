@@ -6,5 +6,7 @@ config = {
         "password": "your_wp_password",
         "categories": [1],  # Replace with actual WordPress category IDs
         "tags": [2]         # Replace with actual WordPress tag IDs
-    }
+    },
+    "BLOG_ID" : "Your blog-id"
 }
+

@@ -6,7 +6,7 @@ from services.blogspot_poster import post_to_blog
 from config import config
 
 # Replace with your Blogspot blog ID
-BLOG_ID = "6627333371495103873"
+BLOG_ID = config["BLOG_ID"]
 
 def main():
     # Input details
